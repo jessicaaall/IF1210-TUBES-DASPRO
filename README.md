@@ -1,4 +1,4 @@
-# Program BNMO
+# Program BNMO 1
 BNMO adalah sebuah robot game milik Indra dan Doni yang membantu mereka melepas stress ketika mendapatkan tugas selama di Institut Teknologi Bandung. BNMO dulunya memiliki sistem inventarisasi dan toko game yang baik. Indra dan Doni sedang menjalani kuliah 2 semester di ITB dan merasa kesulitan dan stress. Doni menghabiskan waktu dengan BNMO untuk bermain game. Namun, Indra lebih suka bersenang-senang bermain gacha, akan tetapi ia terus mengalami kerugian. Pada suatu saat, Indra membanting BNMO sehingga BNMO pun rusak. Doni merasa depresi ketika ia mengetahui bahwa BNMO rusak. Doni pun segera memperbaiki BNMO dan ia pun meminta bantuan untuk memperbaiki BNMO tersebut karena Doni tidak cukup ahli dalam ngoding.
 
 ## Deskripsi BNMO
